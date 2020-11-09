@@ -12,7 +12,6 @@ end
 
 def loop_message_n_times (message, number)
   counter = 0
-  number = 9
   while counter <= number do
     puts message
     counter += 1
