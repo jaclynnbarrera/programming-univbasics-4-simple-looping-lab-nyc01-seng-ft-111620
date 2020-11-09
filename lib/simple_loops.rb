@@ -1,4 +1,4 @@
-def loop_message_five_times (string)
+def loop_message_five_times(string)
   #set the starting point
   counter = 0 
   
@@ -7,6 +7,7 @@ def loop_message_five_times (string)
     puts string
     counter += 1 
     #this sets the iteration and addition
+  end  
 end
 
 def loop_message_n_times
