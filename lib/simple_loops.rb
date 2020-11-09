@@ -12,8 +12,8 @@ end
 
 def loop_message_n_times (message, number)
   counter = 0
-  while counter == integer do
-    puts string
+  while counter == number do
+    puts message
     counter += 1
   end
 end
